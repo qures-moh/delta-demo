@@ -1,2 +1,2 @@
 # delta-demo
-This is a Domo for Git and hub
+This is a Domo for Git and hub class.
